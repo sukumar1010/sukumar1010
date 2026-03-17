@@ -20,7 +20,7 @@
 Face recognition attendance system — Django, DeepFace, JWT, PostgreSQL, Docker.
 Optimized ML pipeline to run within limited cloud resources.
 
-### ⏰ [Task Reminder App](https://github.com/sukumar1010/task-reminder)
+### ⏰ [Task Reminder App](https://github.com/sukumar1010/task-reminder-backend)
 Spring Boot backend with JWT authentication and automated email reminders — deployed on Railway.
 
 ### 🩸 [Donate Blood App](https://github.com/sukumar1010/Donate_Blood)
